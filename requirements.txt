@@ -1,0 +1,15 @@
+numpy
+pandas
+matplotlib
+seaborn
+Pillow
+opencv-python
+scikit-image
+scikit-learn
+xgboost
+imbalanced-learn
+scipy
+torch
+torchvision
+transformers
+openpyxl
