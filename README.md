@@ -1,4 +1,4 @@
-# To Bee or Not to Bee — Pollinator Classification with ML & Optimization
+# To Bee or Not to Bee : Pollinator Classification with ML & Optimization
 
 **IG.2412 — Machine Learning (2024/2025)**
 Master's Project (Engineering cycle, ISEP Paris) — Machine Learning and Optimization.
